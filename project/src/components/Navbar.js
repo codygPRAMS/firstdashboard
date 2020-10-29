@@ -35,7 +35,7 @@ function Navbar() {
                         </li>
                     );
                 })}
-            </ul>
+            </ul> 
           </nav>
           </IconContext.Provider>
         </>
